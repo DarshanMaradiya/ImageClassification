@@ -1,6 +1,6 @@
 # Image-Classification
  
-This was my Mini Project-II at Nirma University.
+This was my Mini Project-III at Nirma University.
 
 ## Case study - 1
 Binary image classification  
